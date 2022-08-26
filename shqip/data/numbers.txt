@@ -1,4 +1,11 @@
 
-[një, One,
-dy, Two,
-tre, Three, ]
+[zero, zero,
+Një, one,
+Dy, two,
+Tre, three,
+Katër, four,
+Pesë, Five,
+Gjashtë, Six,
+Shtatë, Seven,
+Tetë, Eight,
+Nentë, nine,]
