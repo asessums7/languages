@@ -8,7 +8,7 @@
 * [Screenshots](#screenshots)
 
 ## General info
-SHQIP-E is a Python program that creates flashcards for learning Albanian, or Shqip. The program was inspired by limited access to quality Albanian learning materials. I am personally using the program to learn Albanian words and phrases in preparation for Peace Corps service.
+SHQIP-E is a Python program that uses Tkinter to create flashcards for learning Albanian, or Shqip. The program was inspired by limited or low-quality access to Albanian learning materials. I am personally using the program to learn Albanian words and phrases in preparation for Peace Corps service.
 	
 ## Technologies
 The program is created with:
