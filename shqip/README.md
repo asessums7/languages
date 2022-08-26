@@ -1,2 +1,2 @@
 # languageFlashcards
-![Alt text](/Users/asessums/Desktop/asessums7/languages/shqip/images/screenshot.png?raw=true"Optional Title")
+![image]https://github.com/asessums7/languages/blob/main/shqip/images/screenshot.png
