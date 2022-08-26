@@ -1,0 +1,5 @@
+
+[E hënë, Monday,
+E martë, Tuesday,
+E martë, Wednesday,
+E martë, Fridaz,]

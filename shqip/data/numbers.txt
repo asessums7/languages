@@ -1,0 +1,4 @@
+
+[një, One,
+dy, Two,
+tre, Three, ]
