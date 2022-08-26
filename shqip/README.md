@@ -4,27 +4,31 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Credits](#credits)
 * [Screenshots](#screenshots)
+* [Credits](#credits)
 
 ## General info
-SHQIP-E is a Python program that creates flashcards for language learning. The program was 
+SHQIP-E is a Python program that uses Tkinter to create flashcards for learning Albanian, or Shqip. The program was inspired by limited or low-quality access to Albanian learning materials. I am personally using the program to learn Albanian words and phrases in preparation for Peace Corps service.
 	
 ## Technologies
-Project is created with:
-* Python: 12.3
-* tkinter: 2.33
-* Pandas: 999
+The program is created with:
+* Python: 
+* tkinter: 
+* Pandas: 
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, clone the repository locally. Then navigate into the folder and run:
 
 ```
 $ cd ../lorem
-$ npm install
-$ npm start
+$ python3 shqip-flashcards.py
 ```
-## Credits
 
 ## Screenshots
+### Initializing the program
 ![image](https://github.com/asessums7/languages/blob/main/shqip/images/screenshot.png)
+
+### Program Interface
+
+## Credits
+This project was inpsired by Codemy's Tkinter tutorial which can be found here: https://www.youtube.com/watch?v=Pd3XoLSQ5wg.
