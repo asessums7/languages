@@ -73,7 +73,7 @@ def answer():
     if my_entry.get().capitalize() == words[random_word][1]:
         answer_label.config(text=f"Correct! {words[random_word][0]} is {words[random_word][1]}")
     else:
-        answer_label.config(text=f"Incorrect! {words[random_word][0]} is not {my_entry.get().capitalize()} it is {words[random_word][1]} which is {len(words[random_word][1])}")
+        answer_label.config(text=f"Incorrect! {words[random_word][0]} is not {my_entry.get().capitalize()}")
 
 # %%
 # Define a function to give a hint
