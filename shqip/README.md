@@ -31,5 +31,5 @@ $ python3 shqip-flashcards.py
 ### Program Interface
 ![Image](https://github.com/asessums7/languages/blob/main/shqip/images/interface.png)
 
-## Credits
+## Inspiration
 This project was inpsired by Codemy's Tkinter tutorial which can be found here: https://www.youtube.com/watch?v=Pd3XoLSQ5wg.

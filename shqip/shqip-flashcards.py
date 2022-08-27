@@ -27,7 +27,7 @@ print(f'You selected {content}...')
 time.sleep(.15)
 
 ## User input 2, requesting word order. i.e - English to Albanian or Albanian to English.
-word_order = input('\033[94m' + '\nHow would you like to learn?\n' + '\n     Option 1: Type 0 for English to Albanian\n     Option 2: Type 1 for Albanian to English\n' + '\033[95m')
+word_order = int(input('\033[94m' + '\nHow would you like to learn?\n' + '\n     Option 1: Type 0 for English to Albanian\n     Option 2: Type 1 for Albanian to English\n' + '\033[95m'))
 # print(f'You selected if({word_order}) == 1': print('English to Albanian') else print('Albanian to English'))
 time.sleep(.15)
 
@@ -70,10 +70,10 @@ def next():
 # %%
 # Define a function to return the answer
 def answer():
-    if my_entry.get().capitalize() == words[random_word][1]:
+    if my_entry.get().capitalize() == words[random_word][1].capitalize():
         answer_label.config(text=f"Correct! {words[random_word][0]} is {words[random_word][1]}")
     else:
-        answer_label.config(text=f"Incorrect! {words[random_word][0]} is not {my_entry.get().capitalize()}")
+        answer_label.config(text=f"Incorrect! {words[random_word][0]} is not {my_entry.get()}")
 
 # %%
 # Define a function to give a hint
